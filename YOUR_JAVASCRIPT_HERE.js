@@ -15,10 +15,18 @@ const hero = {
 function rest(hero) {
     hero.health = 10
 
+
+
+
 }
 
-function pickUpItems(hero) {}
 
-function equipWeapon(hero) {
+
+function pickUpItems() {
+
+
+}
+
+function equipWeapon() {
 
 }
